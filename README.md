@@ -1,4 +1,4 @@
-### Resume Screening System (NLP + ML)
+### Resume Screening System (NLP + ML).
 
 ### Overview
 This project is an AI-powered Resume Screening System that ranks resumes based on a given job description using NLP techniques.
